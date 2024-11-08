@@ -1,5 +1,7 @@
 body {
     background-color: white;
+    margin: 0;
+    padding: 0;
 }
 
 nav {
@@ -32,3 +34,16 @@ nav li a {
   nav li a:hover {
     color: #ccc;
   }
+
+  .nav-search {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-search input {
+    padding: 5px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+  }
+  
