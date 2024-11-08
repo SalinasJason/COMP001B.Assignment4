@@ -70,7 +70,13 @@ nav li a {
     width: 800px;
   }
 
-  p {
+ .sect1 p {
     text-align: center;
     font-size: 20px;
+  }
+
+  .sect2 h2{
+    margin-top: 5em;
+    text-align: center;
+    font-size: 30px;
   }
