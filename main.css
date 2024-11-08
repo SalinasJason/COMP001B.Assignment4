@@ -89,12 +89,18 @@ nav li a {
     margin-right: 25%;
   }
 
+.sect2 h3 {
+    text-align: center;
+    margin-right: 46%;
+    margin-top: 8em;
+    font-size: 20px;
+}
+
   .sect2 p {
     width: 25%;
     float: left;
     text-align: left;
     margin-left: 25%;
-    margin-top: 8em;
     font-size: 20px;
   }
 
