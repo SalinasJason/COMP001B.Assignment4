@@ -16,6 +16,7 @@ nav {
 nav img {
     width: 100px;
     margin-top: 0.5em;
+    margin-right: 6em;
 }
 
 nav li {
@@ -96,3 +97,21 @@ nav li a {
     margin-top: 8em;
     font-size: 20px;
   }
+
+
+
+.sect3 p {
+    clear: both;
+    width: 25%;
+    float: right;
+    margin-right: 25%;
+    margin-top: 10em;
+    font-size: 20px;
+}
+
+.sect3 img {
+    width: 500px;
+    float: left;
+    margin-top: 10em;
+    margin-left: 25%;
+}
