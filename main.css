@@ -9,20 +9,20 @@ nav {
     justify-content: space-between;
     align-items: center;
     background-color: black;
-    padding: 10px 20px;
+    padding: 0px 20px;
     color: #fff;
 }
 
 nav img {
-    width: 80px;
-    height: auto;
+    width: 100px;
+    margin-top: 0.5em;
 }
 
 nav li {
     list-style: none;
     display: flex;
-    margin: 0;
-    padding: 0;
+    float: left;
+    margin: 1em;
 }
 
 nav li a {
