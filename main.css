@@ -80,3 +80,19 @@ nav li a {
     text-align: center;
     font-size: 30px;
   }
+
+  .sect2 img {
+    width: 500px;
+    float: right;
+    margin-top: 3em;
+    margin-right: 25%;
+  }
+
+  .sect2 p {
+    width: 25%;
+    float: left;
+    text-align: left;
+    margin-left: 25%;
+    margin-top: 8em;
+    font-size: 20px;
+  }
