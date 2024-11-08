@@ -140,10 +140,10 @@ footer {
 .sect4 h2, p {
   clear: both;
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
 }
 
-button {
+.sect4 button {
   background-color: #6d9df7;
   color: #fff;
   border: none;
@@ -155,7 +155,7 @@ button {
   margin-bottom: 5em;
 }
 
-button:hover {
+.sect4 button:hover {
   background-color: #444;
   color: white;
 }
